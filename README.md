@@ -1,6 +1,4 @@
-[![The Core of JavaScript](https://cdn.hashnode.com/res/hashnode/image/upload/v1617277240045/_E9LR-Qpw.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress)]
-
-[!Bluehost](https://bluehost-cdn.com/media/partner/images/belloosagienoah/728x90/728x90BW.png)](https://www.bluehost.com/track/belloosagienoah/)
+![The Core of JavaScript](https://cdn.hashnode.com/res/hashnode/image/upload/v1617277240045/_E9LR-Qpw.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress)
 
 ---
 *JavaScript* is a popular programming language used both in the browser and server. It was initially called **LiveScript** but later changed to JavaScript. 
@@ -35,16 +33,10 @@ The full integration of JavaScript with HTML and CSS makes JavaScript a unique P
 - It is used to build games on the web.
 - And many more...
 
-%[https://youtu.be/GxouWy-ZE80]
-
-%[https://www.youtube.com/watch?v=Sh6lK57Cuk4]
-
 **Happy Coding!!!**
 
 ---
 [![Buy me a Coffee](https://res.cloudinary.com/bizstak/image/upload/v1610317510/ko-fi-trans_fr3su4.png)](https://www.buymeacoffee.com/bellotech)
 
 ---
-
-[!Bluehost](https://bluehost-cdn.com/media/partner/images/belloosagienoah/430x288/430x288PW.png)](https://www.bluehost.com/track/belloosagienoah/)
 
