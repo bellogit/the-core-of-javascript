@@ -36,7 +36,7 @@ The full integration of JavaScript with HTML and CSS makes JavaScript a unique P
 **Happy Coding!!!**
 
 ---
-[![Buy me a Coffee](https://res.cloudinary.com/bizstak/image/upload/v1610317510/ko-fi-trans_fr3su4.png)](https://www.buymeacoffee.com/bellotech)
+[![Buy me a Coffee](https://res.cloudinary.com/bizstak/image/upload/v1610317510/ko-fi-trans_fr3su4.png)](https://www.buymeacoffee.com/techstackmedia)
 
 ---
 
